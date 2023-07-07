@@ -1,5 +1,5 @@
 local args = {
-    [1] = Vector3.new(38.81679153442383, 2.1000022888183594, 11.023441314697266)
+    [1] = Vector3.new(18.87497329711914, 2.5125064849853516, 211.35000610351562)
 }
 
 game:GetService("ReplicatedStorage").Remotes.MovePlayerSomewhere:FireServer(unpack(args))
